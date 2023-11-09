@@ -1,9 +1,9 @@
-﻿#ifndef Байкал
-#define Байкал
+#ifndef Ⰱⰰⰺⰽⰰⰾ
+#define Ⰱⰰⰺⰽⰰⰾ
 
 #ifdef _WIN32
 #include <Windows.h>
-#define вперёд_славяне SetConsoleOutputCP(1251)
+#define ⰲⱂⰵⱃⱑⰴ_ⱄⰾⰰⰲⱔⱀⰵ SetConsoleOutputCP(1251)
 
 #endif
 
@@ -11,89 +11,89 @@
 #include <iostream>
 
 
-#define царь_батюшка_главный int main
-#define внедрить using
-#define Русь std
-#define молвить cout
-#define внемлить cin
-#define воздать return
+#define ⱌⰰⱃⱐ_ⰻⰰⱅⱓⱎⰽⰰ_ⰳⰾⰰⰲⱀⱏⰺⰺ int main
+#define ⰲⱀⰵⰴⱃⰻⱅⱐ using
+#define Ⱃⱆⱄⱐ std
+#define ⰿⱁⰾⰲⰻⱅⱐ cout
+#define ⰲⱀⰵⰿⰾⰻⱅⱐ cin
+#define ⰲⱁⰸⰴⰰⱅⱐ return
 
-#define пахать do
-#define покуда while
-#define для for
+#define ⱂⰰⱈⰰⱅⱐ do
+#define ⱂⱁⰽⱆⰴⰰ while
+#define ⰴⰾⱔ for
 
-#define коли if
-#define отнюдь else
+#define ⰽⱁⰾⰻ if
+#define ⱁⱅⱀⱓⰴⱐ else
 
-#define династия class
-#define семейство struct
-#define перепись enum
+#define ⰴⰻⱀⰰⱄⱅⰻⱔ class
+#define ⱄⰵⰿⰵⰺⱄⱅⰲⱁ struct
+#define ⱂⰵⱃⰵⱂⰻⱄⱐ enum
 
-#define бить_ящеров break
-#define добить_ящеров continue
-#define путевой_камень switch
-#define путь case
-#define базированно default
+#define ⰻⰻⱅⱐ_ⱔⱋⰵⱃⱁⰲ break
+#define ⰴⱁⰻⰻⱅⱐ_ⱔⱋⰵⱃⱁⰲ continue
+#define ⱂⱆⱅⰵⰲⱁⰺ_ⰽⰰⰿⰵⱀⱐ switch
+#define ⱂⱆⱅⱐ case
+#define ⰻⰰⰸⰻⱃⱁⰲⰰⱀⱀⱁ default
 
-#define правда true
-#define кривда false
+#define ⱂⱃⰰⰲⰴⰰ true
+#define ⰽⱃⰻⰲⰴⰰ false
 
-#define прыг_скок endl
-#define новь new
-#define казнь delete
-#define туда_не_знаю_куда nullptr
-#define НИЧТО NULL
-#define судьба random
-#define приказ_княжий const
-#define мощь pow
-#define получи_басурман throw
-#define гнев_Перуна exception
-#define читать_летопись ifstream
-#define писать_летопись ofstream
-#define летопись fstream
-#define друже friend
-#define окстись goto
-#define свет_мой_зеркальце template
-#define скажи typename
-#define царский private
-#define народный public
-#define дружинный protected
-#define встрой inline
-#define кощей static
-#define однобокий unsigned
-#define пытать_ящера try
-#define поймать_ящера catch
-#define хутор namespace
-#define откупорить open
-#define закупорить close
-#define суд_Перуна auto
-#define аки static_cast
-#define очами_стрельнуть peek
+#define ⱂⱃⱏⰺⰳ_ⱄⰽⱁⰽ endl
+#define ⱀⱁⰲⱐ new
+#define ⰽⰰⰸⱀⱐ delete
+#define ⱅⱆⰴⰰ_ⱀⰵ_ⰸⱀⰰⱓ_ⰽⱆⰴⰰ nullptr
+#define ⰐⰋⰝⰕⰑ NULL
+#define ⱄⱆⰴⱐⰻⰰ random
+#define ⱂⱃⰻⰽⰰⰸ_ⰽⱀⱔⰶⰻⰺ const
+#define ⰿⱁⱋⱐ pow
+#define ⱂⱁⰾⱆⱍⰻ_ⰻⰰⱄⱆⱃⰿⰰⱀ throw
+#define ⰳⱀⰵⰲ_ⱂⰵⱃⱆⱀⰰ exception
+#define ⱍⰻⱅⰰⱅⱐ_ⰾⰵⱅⱁⱂⰻⱄⱐ ifstream
+#define ⱂⰻⱄⰰⱅⱐ_ⰾⰵⱅⱁⱂⰻⱄⱐ ofstream
+#define ⰾⰵⱅⱁⱂⰻⱄⱐ fstream
+#define ⰴⱃⱆⰶⰵ friend
+#define ⱁⰽⱄⱅⰻⱄⱐ goto
+#define ⱄⰲⰵⱅ_ⰿⱁⰺ_ⰸⰵⱃⰽⰰⰾⱐⱌⰵ template
+#define ⱄⰽⰰⰶⰻ typename
+#define ⱌⰰⱃⱄⰽⰻⰺ private
+#define ⱀⰰⱃⱁⰴⱀⱏⰺⰺ public
+#define ⰴⱃⱆⰶⰻⱀⱀⱏⰺⰺ protected
+#define ⰲⱄⱅⱃⱁⰺ inline
+#define ⰽⱁⱋⰵⰺ static
+#define ⱁⰴⱀⱁⰻⱁⰽⰻⰺ unsigned
+#define ⱂⱏⰺⱅⰰⱅⱐ_ⱔⱋⰵⱃⰰ try
+#define ⱂⱁⰺⰿⰰⱅⱐ_ⱔⱋⰵⱃⰰ catch
+#define ⱈⱆⱅⱁⱃ namespace
+#define ⱁⱅⰽⱆⱂⱁⱃⰻⱅⱐ open
+#define ⰸⰰⰽⱆⱂⱁⱃⰻⱅⱐ close
+#define ⱄⱆⰴ_ⱂⰵⱃⱆⱀⰰ auto
+#define ⰰⰽⰻ static_cast
+#define ⱁⱍⰰⰿⰻ_ⱄⱅⱃⰵⰾⱐⱀⱆⱅⱐ peek
 
-#define зачерпнуть getline
-#define добрый_молодец good
-#define змей_подколодный fail
-#define вот_и_сказочке_конец eof
-#define вск eof
-#define приток_Байкала ostream
-#define отток_Байкала istream
-#define меняло std::swap
-#define отщипнуть get
+#define ⰸⰰⱍⰵⱃⱂⱀⱆⱅⱐ getline
+#define ⰴⱁⰻⱃⱏⰺⰺ_ⰿⱁⰾⱁⰴⰵⱌ good
+#define ⰸⰿⰵⰺ_ⱂⱁⰴⰽⱁⰾⱁⰴⱀⱏⰺⰺ fail
+#define ⰲⱁⱅ_ⰻ_ⱄⰽⰰⰸⱁⱍⰽⰵ_ⰽⱁⱀⰵⱌ eof
+#define ⰲⱄⰽ eof
+#define ⱂⱃⰻⱅⱁⰽ_Ⰱⰰⰺⰽⰰⰾⰰ ostream
+#define ⱁⱅⱅⱁⰽ_Ⰱⰰⰺⰽⰰⰾⰰ istream
+#define ⰿⰵⱀⱔⰾⱁ std::swap
+#define ⱁⱅⱋⰻⱂⱀⱆⱅⱐ get
 
-внедрить целина = int;
-внедрить вель_дробь = double;
-внедрить малый_дробь = float;
-внедрить буква = char;
-внедрить много_букав = Русь::string;
-внедрить бестолочь = void;
-внедрить карлик = short;
-внедрить долговязый = long;
-внедрить Петр_Первый = long long;
-внедрить мерило = size_t;
-внедрить розсуд = bool;
+ⰲⱀⰵⰴⱃⰻⱅⱐ ⱌⰵⰾⰻⱀⰰ = int;
+ⰲⱀⰵⰴⱃⰻⱅⱐ ⰲⰵⰾⱐ_ⰴⱃⱁⰻⱐ = double;
+ⰲⱀⰵⰴⱃⰻⱅⱐ ⰿⰰⰾⱏⰺⰺ_ⰴⱃⱁⰻⱐ = float;
+ⰲⱀⰵⰴⱃⰻⱅⱐ ⰻⱆⰽⰲⰰ = char;
+ⰲⱀⰵⰴⱃⰻⱅⱐ ⰿⱀⱁⰳⱁ_ⰻⱆⰽⰰⰲ = Ⱃⱆⱄⱐ::string;
+ⰲⱀⰵⰴⱃⰻⱅⱐ ⰻⰵⱄⱅⱁⰾⱁⱍⱐ = void;
+ⰲⱀⰵⰴⱃⰻⱅⱐ ⰽⰰⱃⰾⰻⰽ = short;
+ⰲⱀⰵⰴⱃⰻⱅⱐ ⰴⱁⰾⰳⱁⰲⱔⰸⱏⰺⰺ = long;
+ⰲⱀⰵⰴⱃⰻⱅⱐ ⱂⰵⱅⱃ_ⱂⰵⱃⰲⱏⰺⰺ = long long;
+ⰲⱀⰵⰴⱃⰻⱅⱐ ⰿⰵⱃⰻⰾⱁ = size_t;
+ⰲⱀⰵⰴⱃⰻⱅⱐ ⱃⱁⰸⱄⱆⰴ = bool;
 
 
-перепись счёт_древних_русов{ ноль = 0, целковый = 1, полушка = 2, четвертушка = 3, осьмушка = 4,
-пудовичок = 5, медячок = 6, серебрячок = 7, золотничок = 8, девятичок = 9, десятичок = 10 };
+ⱂⰵⱃⰵⱂⰻⱄⱐ ⱄⱍⱑⱅ_ⰴⱃⰵⰲⱀⰻⱈ_ⱃⱆⱄⱁⰲ{ ⱀⱁⰾⱐ = 0, ⱌⰵⰾⰽⱁⰲⱏⰺⰺ = 1, ⱂⱁⰾⱆⱎⰽⰰ = 2, ⱍⰵⱅⰲⰵⱃⱅⱆⱎⰽⰰ = 3, ⱁⱄⱐⰿⱆⱎⰽⰰ = 4,
+ⱂⱆⰴⱁⰲⰻⱍⱁⰽ = 5, ⰿⰵⰴⱔⱍⱁⰽ = 6, ⱄⰵⱃⰵⰻⱃⱔⱍⱁⰽ = 7, ⰸⱁⰾⱁⱅⱀⰻⱍⱁⰽ = 8, ⰴⰵⰲⱔⱅⰻⱍⱁⰽ = 9, ⰴⰵⱄⱔⱅⰻⱍⱁⰽ = 10 };
 
 #endif
